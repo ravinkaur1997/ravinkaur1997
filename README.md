@@ -7,6 +7,7 @@
 
 <br />
 
+
 Hello there! I'm Ravin Kaur, and I'm excited to have you visit my GitHub profile. Here, you'll find a collection of my projects, ideas, and contributions to the world of software development. Feel free to explore and discover the different repositories I've worked on. Let me give you a quick overview of what you can expect:
 
 About Me
@@ -35,9 +36,9 @@ Let's connect and build something amazing together!
 Thank you for visiting my profile, and I hope you find something interesting here. Don't forget to star any repositories you find useful or inspiring. Happy coding!
 
 Cheers,
+
 Ravin
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 **languages and tools:**  
 
