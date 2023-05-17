@@ -11,7 +11,7 @@
 Hello there! I'm Ravin Kaur, and I'm excited to have you visit my GitHub profile. Here, you'll find a collection of my projects, ideas, and contributions to the world of software development. Feel free to explore and discover the different repositories I've worked on. Let me give you a quick overview of what you can expect:
 
 About Me
-I'm a passionate developer who loves crafting elegant solutions to complex problems. I enjoy working with JAva, Spring, React, Python etc and I'm always eager to learn and experiment with new tools.
+I'm a passionate developer who loves crafting elegant solutions to complex problems. I enjoy working with Java, Spring, React, Python etc and I'm always eager to learn and experiment with new tools.
 
 <!-- + , Projects
 Throughout my GitHub journey, I've worked on various projects that span different domains and technologies. Here are some highlights:
@@ -25,6 +25,7 @@ Throughout my GitHub journey, I've worked on various projects that span differen
 Feel free to explore the repositories to dive deeper into each project. Your feedback, suggestions, and contributions are always welcome!
 
 Contact
+
 I'm always open to connecting with fellow developers, enthusiasts, and potential collaborators. If you have any questions, suggestions, or just want to chat about coding, feel free to reach out to me. You can contact me via:
 
 Email: ravinkaur1997@gmail.com
